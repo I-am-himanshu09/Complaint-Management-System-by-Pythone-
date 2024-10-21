@@ -1,2 +1,3 @@
-# Complaint-Management-System-by-Pythone-
-A Complaint Management System (CMS) built with Python is a software application designed to handle and resolve customer complaints efficiently.
+# Contact-Management-System-by-Pythone-
+
+A Contact Management System (CMS) is a software application designed to help individuals and organizations manage their contacts efficiently. 
